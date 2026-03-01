@@ -1,29 +1,37 @@
-# THE REGOLITH LAMP PROPRIETARY & NON-COMMERCIAL LICENSE
+# THE REGOLITH LAMP PUBLIC EVALUATION & NON-COMMERCIAL LICENSE
 **Copyright (c) 2026 Rohit Tamidapati (DhaaRn Stealth Project)**
 
-This repository contains proprietary concepts, schematics, and simulation frameworks for "The Regolith Lamp". By accessing, downloading, cloning, or viewing this repository, you explicitly agree to the following strict limitations of use:
+This repository contains proprietary concepts, schematics, and simulation frameworks for "The Regolith Lamp". It is published under a **Source-Available** model. By accessing, downloading, cloning, or viewing this repository, you explicitly agree to the following strict limitations of use:
 
-## 1. HARDWARE SPECIFICATIONS (CC BY-NC-ND 4.0)
-All 3D models, CAD files, waveguide schematics, topographical matrices, and physical blueprints contained in this repository are licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
-* **NonCommercial:** You may not use the material for commercial purposes, including but not limited to selling, leasing, or integrating into a for-profit business.
-* **NoDerivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material. You are prohibited from altering these designs to bypass copyright.
+## 1. PERMITTED USE (EVALUATION & SIMULATION)
+You are granted a limited, worldwide, non-exclusive, non-transferable right to view, download, and interact with the files in this repository exclusively for:
+* Personal education and academic review.
+* Non-commercial, digital-only software simulations.
+* Portfolio evaluation and conceptual discussion.
 
 ## 2. STRICT BAN ON PHYSICAL MANUFACTURING
-This repository is provided strictly as a "Source-Available" conceptual framework for academic review and non-physical digital simulation. **You are strictly forbidden from utilizing these specifications to manufacture, machine, 3D-print, or assemble a physical version of The Regolith device.** ## 3. ANTI-WEAPONIZATION & MILITARY BAN (HIPPOCRATIC CLAUSE)
-The technology described herein constitutes Dual-Use Technology. You may not use, simulate, or adapt any part of this repository for:
-* Military applications or defense contracting.
-* Autonomous weaponry or guidance systems.
-* Active camouflage or stealth applications.
-* Any use that violates international human rights laws.
+This repository is provided strictly as a conceptual framework. **You are strictly forbidden from utilizing these specifications to manufacture, machine, 3D-print, cast, or assemble a physical version of The Regolith device or any of its optical waveguides.**
+
+## 3. PROHIBITION OF COMMERCIAL USE & DERIVATIVES
+* **Non-Commercial:** You may not use any material in this repository for commercial purposes, including but not limited to selling, leasing, monetizing via software, or integrating into a for-profit business infrastructure.
+* **No Derivatives Distributed:** You may not distribute, host, or share any modified versions of these files. You are prohibited from altering these designs to bypass this copyright.
 
 ## 4. PROPRIETARY TRADE SECRET NOTICE
-This repository represents only a partial, public-facing conceptual API. The core intellectual property required to execute this hardware—including but not limited to electrostatic MEMS manufacturing pipelines, Frustrated Total Internal Reflection (FTIR) calibration, structural photonic coating formulas, and physical swarm collision-avoidance mathematics—remain the sole proprietary Trade Secrets of Rohit Tamidapati. They are intentionally omitted from this public repository.
+This public repository represents only a partial, conceptual API. The core intellectual property required to physically execute this hardware—including but not limited to electrostatic MEMS manufacturing pipelines, Frustrated Total Internal Reflection (FTIR) calibration, structural photonic coating formulas, and physical PMMA injection-molding parameters—remain the sole proprietary Trade Secrets of DhaaRn and Rohit Tamidapati. **They are intentionally omitted from this public repository.**
 
-## 5. SOFTWARE & SIMULATION CODE
-Any software, firmware, or digital simulation scripts included in this repository are licensed under the **PolyForm Noncommercial License 1.0.0**. You may use the code for private, personal, or academic digital simulation. You are strictly prohibited from using the code to back a commercial SaaS, API, or production environment.
+## 5. ANTI-WEAPONIZATION & MILITARY BAN (HIPPOCRATIC CLAUSE)
+The technology described herein constitutes Dual-Use Technology. You may not use, simulate, or adapt any part of this repository for:
+* Military applications or defense contracting.
+* Autonomous weaponry, guidance systems, or tactical infrastructure.
+* Active camouflage or stealth applications.
+* Any use that violates international human rights laws.
+*(This clause is enforced in spirit with the Hippocratic License 3.0).*
 
 ## 6. COMMERCIAL INQUIRIES
-For commercial licensing, authorized defense contracting, or enterprise integration of the physical hardware, contact the copyright holder directly at: [rohittamidapati11@gmail.com] or [rohit.tamidapati@dhaarn.com].
+For commercial licensing, municipal infrastructure implementation, or enterprise integration of the physical hardware, contact the copyright holder directly at: [rohittamidapati11@gmail.com] or [rohit.tamidapati@dhaarn.com].
+
+---
+*By interacting with this repository, you acknowledge that all physical manufacturing rights, patentable optical arrays, and proprietary trademarks remain the exclusive property of DhaaRn.*
 
 #LICENSES USED -
 
