@@ -4,7 +4,7 @@
 
 [![Status: Stealth](https://img.shields.io/badge/Status-Stealth_R&D-black)](#)
 [![License: Proprietary / NC](https://img.shields.io/badge/License-Proprietary_/_NC-red)](#)
-[![Architecture: DhaaRn Optical](https://img.shields.io/badge/Architecture-DhaaRn_Optical-blue)](#)
+[![Architecture: DhaaRn](https://img.shields.io/badge/Architecture-DhaaRn_Optical-blue)](#)
 
 > **"The death of the glass bulb. The birth of solid-state lunar infrastructure."**
 
